@@ -1,0 +1,19 @@
+{
+    "name": "pmml",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-gpl-execution-pmml/",
+    "description": "The siddhi-gpl-execution-pmml extension is an extension to Siddhi that can be used to process texts based on a PMML processing model.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "pmml"
+    ],
+    "releases": [
+        {
+            "tagName": "4.0.20",
+            "products": []
+        }
+    ]
+}
